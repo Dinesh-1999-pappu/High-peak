@@ -1,0 +1,12 @@
+step-1
+include the input sample input file and write 
+step-2
+split the contents
+step-3
+append the contents
+step-4
+apply the neceseery conditions
+step-5
+calculte the differnce between topmost and lower most value
+step-6
+display the output based on the condtion
